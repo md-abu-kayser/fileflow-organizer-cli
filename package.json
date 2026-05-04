@@ -1,0 +1,23 @@
+{
+  "name": "fileflow-organizer-cli",
+  "version": "1.0.0",
+  "description": "A professional Node.js CLI tool to organize files by category.",
+  "main": "file-organizer.js",
+  "bin": {
+    "fileflow": "./file-organizer.js"
+  },
+  "scripts": {
+    "start": "node file-organizer.js",
+    "init": "node file-organizer.js init",
+    "organize": "node file-organizer.js organize"
+  },
+  "keywords": [
+    "cli",
+    "nodejs",
+    "file-organizer",
+    "filesystem",
+    "automation"
+  ],
+  "author": "Md Abu Kayser",
+  "license": "MIT"
+}
