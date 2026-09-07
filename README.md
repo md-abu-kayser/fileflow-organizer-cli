@@ -5,18 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/md-abu-kayser/fileflow-organizer-cli/actions/workflows/ci.yml">
-    <img src="https://img.shields.io/github/actions/workflow/status/md-abu-kayser/fileflow-organizer-cli/ci.yml?branch=main&style=flat-square&label=CI" alt="CI status" />
-  </a>
-  <a href="https://nodejs.org/">
-    <img src="https://img.shields.io/node/v/fileflow-organizer-cli.svg?style=flat-square" alt="Node.js version" />
-  </a>
-  <a href="https://opensource.org/license/mit/">
-    <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" alt="MIT License" />
-  </a>
-</p>
-
-<p align="center">
   <a href="#features">Features</a>
   ·
   <a href="#installation">Installation</a>
