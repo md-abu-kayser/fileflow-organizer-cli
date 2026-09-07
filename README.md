@@ -5,12 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.npmjs.com/package/fileflow-organizer-cli">
-    <img src="https://img.shields.io/npm/v/fileflow-organizer-cli.svg?style=flat-square" alt="npm version" />
-  </a>
-  <a href="https://www.npmjs.com/package/fileflow-organizer-cli">
-    <img src="https://img.shields.io/npm/dm/fileflow-organizer-cli.svg?style=flat-square" alt="npm downloads" />
-  </a>
   <a href="https://github.com/md-abu-kayser/fileflow-organizer-cli/actions/workflows/ci.yml">
     <img src="https://img.shields.io/github/actions/workflow/status/md-abu-kayser/fileflow-organizer-cli/ci.yml?branch=main&style=flat-square&label=CI" alt="CI status" />
   </a>
